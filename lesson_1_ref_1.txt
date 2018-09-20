@@ -1,0 +1,10 @@
+vc_reflection_1:
+
+1) diff function allows me to clearly observe codes that have been removed and codes that are added. By doing so, I can clearly  see if there are any mistakes like typo or wrong param, method or function calling.
+2) Easy access to the entire history means better control when it comes to undo-ing specific parts or changing certain parts.
+3) The pro is that auto saving will keep everything logged even if there are any sudden accidents, however, the con is that you will not be able to search for the specific history you need if there are too many save files pilling up.
+4) Code base docs have more people working on different parts of the code which allows them to commit different parts that they are wokring on at different times whereas Google Docs doesn't require different people to work on different parts at the same time.
+5) Git app itself allows a clear differentiation in their applciation, there is an overly feature that shows differences in highlight format.
+6) This is easy, vc would allow me to make changes be it new changes or using old commits without worry because I will always be able to return to a previous version without breaking my code.
+7) Aside from testing it on tutorials on the courses, I would like to use it on my real-life Android projects and Python projects. It would be great to have a vc for my open source projects if I am able to come out with one.
+

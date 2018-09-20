@@ -1,0 +1,10 @@
+vc_reflection_2
+
+In the long run,
+1) Work can be easily put to comparison to check for bugs
+2) Easily to maintain and update the app without worrying that the new code will break something.
+3) Other developers in the same project can also view and provide feedbacks or changes along the way while working on the same project.
+4) You could also share your codes with other programmers and when changes appear, you can check on them through the history.
+5) In case of emergency, there is always a back up versino of the code which is ready to use.
+
+

@@ -1,0 +1,17 @@
+vc_reflection_3
+
+Manual vs Auto Commit
+
+Pro
+Better flow of commit, without worry that auto commit will kick in half-way during coding.
+Readability is increased as there is no need to have too many small chunks of small commits.
+Sharing is also easier because it will be easier to navigate throught the commits.
+Roll-backs/ diffs are easier to read.
+
+Con
+Easily forgetting to commit.
+When there is an emergency when you have to leave your work right away.
+Good for coders that are idle sometimes.
+You will never lose a single commit.
+
+
