@@ -1,3 +1,5 @@
+vc_reflection 1
+
 Staging area is an important part of Git.
 - Provides user with an area to clearly differentiate the in-progress, new changes and commited files.
 - In the staging area, users are also able to freely change anything if nesseccery.
