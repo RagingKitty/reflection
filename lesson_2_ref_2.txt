@@ -1,0 +1,12 @@
+vc_reflection 2
+
+In staging area, I could add make different changes to different codes and files then add to this area.
+I could then carefully choose which files are under the same umbrella and commit those and only those under 1 commit.
+This will allow me to have more control of my code and also have a tidier workspace.
+Furthermore, I will be able to follow the one commit per logic rule which makes everything clean and organized.
+
+Minimizing complexity and messy codes and maximizing efficiency and readability it utmost important and that's exactly what staging area is designed for.
+Even after a long time away from the project, I would still be able to check on the logs if any bugs were to occur under 1 logic.
+Debugging would be also easy as it I could revert changes from a specific brunch under the same logic commit.
+
+
