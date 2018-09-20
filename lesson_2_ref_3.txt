@@ -1,0 +1,8 @@
+vc_reflection 3
+
+Providing a safe environment for code experimentations.
+It also provide a clean and readable hierarchy for other developers and myself to search for specific function or check the work of others.
+With using branch, we can build different functions without worrying that it will break the main application.
+It is a good way to build a second version of the app at the same time as we launch the first app.
+
+
